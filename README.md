@@ -3,7 +3,7 @@
 A modern Next.js library web app where users can browse books, filter by category, login/register with Better Auth, borrow books, and update profile information.
 
 ## Live URL
-Add your deployed Vercel URL here.
+https://book-borrowing-platform123-g2h1.vercel.app
 
 ## Key Features
 - Responsive navbar and footer
@@ -21,10 +21,3 @@ Add your deployed Vercel URL here.
 
 ## NPM Packages Used
 next, react, react-dom, better-auth, mongodb, @better-auth/mongo-adapter, tailwindcss, daisyui, animate.css, react-hot-toast
-
-## Run Locally
-1. Copy `.env.example` to `.env.local`
-2. Add MongoDB Atlas URI, Better Auth secret, and Google OAuth keys
-3. Run `npm install`
-4. Run `npm run dev`
-5. Open http://localhost:3000
